@@ -1,13 +1,14 @@
 // For problems 1-2 use the following lines of code:
 var arr = [10,20,30,40,50,60]
 
-////////// PROBLEM 1 //////////  EEEDDDIIITTT
+////////// PROBLEM 1 //////////
 /*
   Create a variable named 'firstItem' and set it equal to the first value of the 'arr' array.
 */
 
 //Code Here
 
+// EDIT 1 GITHUB TEST EDIT 1 GITHUB TEST EDIT 1 GITHUB TEST EDIT 1 GITHUB TEST EDIT 1 GITHUB TEST
 
 ////////// PROBLEM 2 //////////
 /*
